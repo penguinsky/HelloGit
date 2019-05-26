@@ -2,7 +2,8 @@
 
 int main(void)
 {	
-	printf("ソフトⅠコース 4組 29番 中尾 優斗\n");
+	printf("aaaaa\n");
+	printf("bbccdd\n");
 	
 	return 0;
 }
